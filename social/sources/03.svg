@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#0b0b0c"/>
+  
+    <image href="../../assets/images/project-03.jpg" width="1080" height="1080" preserveAspectRatio="xMidYMid slice" />
+    <defs><linearGradient id="g3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".86"/><stop offset=".66" stop-color="#000" stop-opacity=".08"/></linearGradient></defs><rect width="1080" height="1080" fill="url(#g3)"/>
+    <g font-family='Helvetica,Arial,sans-serif' fill="#fff"><text x="70" y="360" font-size="23" font-weight="700" letter-spacing="6" fill="#d51e28">PROYECTO · COMERCIAL</text><text x="70" y="452" font-size="92" font-weight="800" letter-spacing="-5">UN INTERIOR</text><text x="70" y="540" font-size="92" font-weight="800" letter-spacing="-5">LISTO PARA</text><text x="70" y="628" font-size="92" font-weight="800" letter-spacing="-5">OPERAR.</text>
+    <text x="73" y="692" font-size="23" fill="#d5d5d7">Piso, iluminación y superficies en un sistema visual limpio.</text></g>
+  
+  <g font-family='Helvetica,Arial,sans-serif' fill="#ffffff">
+    <text x="70" y="82" font-size="19" font-weight="700" letter-spacing="4">03 / 06</text>
+    <text x="1010" y="82" text-anchor="end" font-size="17" font-weight="700" letter-spacing="3">TRANSFORMACIÓN INTERIOR</text>
+    <text x="70" y="1030" font-size="15" font-weight="700" letter-spacing="3" fill="#b5b6b9">PROPUESTA DE CONTENIDO · NO OFICIAL</text>
+    <text x="1010" y="1030" text-anchor="end" font-size="15" font-weight="700" letter-spacing="3" fill="#b5b6b9">MIAMI</text>
+  </g>
+</svg>

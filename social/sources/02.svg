@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#0b0b0c"/>
+  
+    <path d="M720 0H1080V1080H604Z" fill="#161619"/>
+    <rect x="70" y="135" width="72" height="8" fill="#d51e28"/>
+    <g font-family='Helvetica,Arial,sans-serif' fill="#fff"><text x="70" y="285" font-size="100" font-weight="800" letter-spacing="-5">REMODELING</text><text x="70" y="435" font-size="100" font-weight="800" letter-spacing="-5" fill="none" stroke="#85868a" stroke-width="2">TILE</text><text x="70" y="585" font-size="100" font-weight="800" letter-spacing="-5">PAINTING</text>
+    <text x="70" y="700" font-size="25" fill="#c4c5c8">Transformaciones residenciales y comerciales.</text><text x="70" y="740" font-size="25" fill="#c4c5c8">Baños · closets · interiores · exteriores.</text>
+    <text x="70" y="900" font-size="18" font-weight="700" letter-spacing="5" fill="#d51e28">FORMA · FUNCIÓN · ACABADO</text></g>
+    <g fill="#d51e28" transform="translate(845 540) skewX(-7)"><rect x="0" y="0" width="34" height="260"/><rect x="58" y="55" width="34" height="205"/><rect x="116" y="110" width="34" height="150"/></g>
+  
+  <g font-family='Helvetica,Arial,sans-serif' fill="#ffffff">
+    <text x="70" y="82" font-size="19" font-weight="700" letter-spacing="4">02 / 06</text>
+    <text x="1010" y="82" text-anchor="end" font-size="17" font-weight="700" letter-spacing="3">SERVICIOS</text>
+    <text x="70" y="1030" font-size="15" font-weight="700" letter-spacing="3" fill="#b5b6b9">PROPUESTA DE CONTENIDO · NO OFICIAL</text>
+    <text x="1010" y="1030" text-anchor="end" font-size="15" font-weight="700" letter-spacing="3" fill="#b5b6b9">MIAMI</text>
+  </g>
+</svg>

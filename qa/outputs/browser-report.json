@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:53607/demos/construart-miami/",
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "overflow": {
+        "scrollWidth": 1440,
+        "clientWidth": 1440
+      },
+      "brokenImages": 0
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844,
+      "overflow": {
+        "scrollWidth": 390,
+        "clientWidth": 390
+      },
+      "brokenImages": 0
+    }
+  ],
+  "interactions": {
+    "filters": "pass",
+    "estimator": "pass",
+    "mobileNavigation": "pass"
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "offOriginRequests": [],
+  "status": "pass"
+}

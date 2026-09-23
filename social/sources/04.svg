@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#f0efec"/>
+  
+    <clipPath id="photo"><rect x="505" y="0" width="575" height="1080"/></clipPath><g clip-path="url(#photo)"><image href="../../assets/images/project-01.jpg" width="1080" height="1080" preserveAspectRatio="xMidYMid slice" /></g>
+    <rect x="0" y="0" width="505" height="1080" fill="#f0efec"/>
+    <g font-family='Helvetica,Arial,sans-serif' fill="#111114"><text x="70" y="260" font-size="22" font-weight="700" letter-spacing="5" fill="#d51e28">TRABAJO EN PROCESO</text><text x="70" y="370" font-size="62" font-weight="800" letter-spacing="-2">PREPARAR</text><text x="70" y="440" font-size="62" font-weight="800" letter-spacing="-2">TAMBIÉN ES</text><text x="70" y="510" font-size="62" font-weight="800" letter-spacing="-2">CONSTRUIR.</text>
+    <text x="70" y="625" font-size="23" fill="#66676a">Evaluar. Intervenir.</text><text x="70" y="662" font-size="23" fill="#66676a">Revisar el acabado.</text></g>
+    <rect x="475" y="160" width="60" height="8" fill="#d51e28"/>
+  
+  <g font-family='Helvetica,Arial,sans-serif' fill="#111114">
+    <text x="70" y="82" font-size="19" font-weight="700" letter-spacing="4">04 / 06</text>
+    <text x="1010" y="82" text-anchor="end" font-size="17" font-weight="700" letter-spacing="3">PROCESO</text>
+    <text x="70" y="1030" font-size="15" font-weight="700" letter-spacing="3" fill="#66676a">PROPUESTA DE CONTENIDO · NO OFICIAL</text>
+    <text x="1010" y="1030" text-anchor="end" font-size="15" font-weight="700" letter-spacing="3" fill="#66676a">MIAMI</text>
+  </g>
+</svg>

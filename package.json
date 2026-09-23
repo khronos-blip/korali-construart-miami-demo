@@ -1,0 +1,15 @@
+{
+  "name": "korali-construart-miami-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node qa/server.mjs",
+    "social:generate": "node social/scripts/generate.mjs",
+    "qa:structural": "node qa/structural.mjs",
+    "qa:js": "node --check public/script.js && node --check worker.js",
+    "qa:browser": "node qa/browser.mjs",
+    "qa:worker": "npx --yes wrangler deploy --dry-run --outdir qa/outputs/worker",
+    "qa": "npm run qa:structural && npm run qa:js && npm run qa:browser && npm run qa:worker"
+  }
+}
